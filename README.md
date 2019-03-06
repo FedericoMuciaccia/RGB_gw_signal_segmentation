@@ -1,2 +1,2 @@
-# RGB_gw_signal_segmentation
+# RGB Gravitational Wave signal segmentation
 Gravitational Wave signal segmentation in 3-detector RGB spectrograms
